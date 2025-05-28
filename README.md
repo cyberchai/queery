@@ -1,4 +1,4 @@
-<h1>queery</h1>
+<h1>queery by Chaira Harder</h1>
 <h2>Mini Search Engine using SVD-Based Query Matching</h2>
 
 This project implements a basic search engine to demonstrate key concepts in computational linear algebra, specifically Singular Value Decomposition (SVD).
