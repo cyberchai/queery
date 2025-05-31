@@ -1,13 +1,10 @@
 % Chaira Harder
-% MTH 261 Final Project
-% Due April 28, 2025
 
 % Mini Search Engine
-% Inspired by Computational Linear Algebra - by Robert E. White (our class
-% textbook)
+% Inspired by Computational Linear Algebra - by Robert E. White
 
 % ---------------------------
-% Textbook Theoretical Short Example
+% Short example to demonstrate basic theory
 % ---------------------------
 
 A = [4 1;    % 'vector'
@@ -58,7 +55,7 @@ fprintf('\nBest matching document is: %d.\n', best_doc);
 
 
 % ---------------------------
-% My code
+% A more in-depth example using course syllabi.
 % ---------------------------
 
 fprintf('END THEORY:\n---------------------------\nMY CODE:');
